@@ -1,0 +1,7 @@
+image,caption
+sample_1.jpg,A dog running in the park
+sample_1.jpg,A happy dog playing outside
+sample_2.jpg,A cat sitting on a windowsill
+sample_2.jpg,A white cat looking out the window
+sample_3.jpg,Children playing in a playground
+sample_3.jpg,Kids having fun on swings and slides
